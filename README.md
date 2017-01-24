@@ -2,8 +2,8 @@ I.    Top down
 
 II.   Tower
 
-       -Single target
-       -AOE
+       Single target
+       AOE
        
 III.   AI Pathfinding
 
@@ -16,9 +16,9 @@ VI.  Waves/Levels
 
 VII. Particles
 
-       -Tower Fire/Bullets
-       -Enemy Damage
-       -Player Damage
+       Tower Fire/Bullets
+       Enemy Damage
+       Player Damage
        
 VIII.   High Score
 
