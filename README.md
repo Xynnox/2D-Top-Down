@@ -1,30 +1,31 @@
-I.    Tower Defense 2D
+I.    Top down
 
-II.   Top down
+II.   Tower
 
-III.  Tower
        -Single target
        -AOE
-IV.   AI Pathfinding
+       
+III.   AI Pathfinding
 
-V.    Spawning Function
+IV.    Spawning Function
 
-VI.   Player Base
+V.   Player Base
        -Health Player
        
-VII.  Waves/Levels
+VI.  Waves/Levels
 
-VIII. Particles
+VII. Particles
+
        -Tower Fire/Bullets
        -Enemy Damage
        -Player Damage
        
-IX.   High Score
+VIII.   High Score
 
-X.    Next Wave Button
+IX.    Next Wave Button
 
-XI.   Currency
+X.   Currency
 
-XII.  Achievements
+XI.  Achievements
 
-XIII. Art/Design
+XII. Art/Design
